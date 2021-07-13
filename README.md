@@ -1,3 +1,3 @@
-# clock
-Dynamic Date 
+## Clock
+#Dynamic Date 
 ![](clock.gif)
